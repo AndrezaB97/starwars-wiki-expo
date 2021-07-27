@@ -7,7 +7,7 @@ export const SplashScreen = () => {
   return (
     <View style={styles.container}>
       <Logo />
-      <Text color="red">StarWars - Wiki</Text>
+      <Text color="red">StarWars - Teste</Text>
       <StatusBar style="auto" />
     </View>
   )
